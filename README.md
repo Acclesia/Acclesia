@@ -1,16 +1,17 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=SUMIN%20OH&fontSize=90)
 
-<!--
-**Acclesia/Acclesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 My interest
+I am learning below 
+
+<img src="https://img.shields.io/badge/Image analysis-red?style=flat&logo=E-Mail&logoColor=red"/> <img src="https://img.shields.io/badge/Computer Vision-yellow?style=flat&logo=E-Mail&logoColor=red"> <img src="https://img.shields.io/badge/Machine Learning-orange?style=flat&logo=E-Mail&logoColor=red"/> <img src="https://img.shields.io/badge/Deep Learning-green?style=flat&logo=E-Mail&logoColor=red"/> 
+
+## Langauge 
+
+<img src="https://img.shields.io/badge/Python-inactive?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/PyTorch-blueviolet?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
+
+## Contact 
+
+[![Gmail Badge](https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tnals9492@naver.com) [![CV Badge](https://img.shields.io/badge/Resume-D14836?style=flat&logo=Blog&logoColor=FF8800)](mailto:https://osumin9492.wixsite.com/website)
