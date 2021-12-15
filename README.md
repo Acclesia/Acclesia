@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=380&section=header&text=SUMIN%20OH&fontSize=80)
 <div align="center">
 
-### 👋 WELCOME 👋
+### 👋 WELCOME There 👋
   
 ### 🌱 My interest
 I am learning below 
