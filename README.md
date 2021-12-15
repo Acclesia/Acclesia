@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=SUMIN%20OH&fontSize=90)
 
-## 👋 Welcome 👋
+# 👋 Welcome 👋
 
 
 ## 🌱 My interest
@@ -14,4 +14,4 @@ I am learning below
 
 ## Contact 
 
-[![Gmail Badge](https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tnals9492@naver.com) [![CV Badge](https://img.shields.io/badge/Resume-D14836?style=flat&logo=Blog&logoColor=FF8800)](mailto:https://osumin9492.wixsite.com/website)
+[![Gmail Badge](https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tnals9492@naver.com)<a href="url"> <img src="https://img.shields.io/badge/Resume-D14836?style=flat&logo=Bloh&logoColor=white&link=https://osumin9492.wixsite.com/website"/>
